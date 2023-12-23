@@ -1,16 +1,18 @@
-# app_ai
+# AI Image Generator
 
-A new Flutter project.
+## Introduce
 
-## Getting Started
+ Image Generator that allows create realistic images and art from a description in natural language.
+ 
+ # Available functions:
+      Create images from description text
+      Download and share image
+      Save image in gallery
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   # Support platform:
+       Android
+       
+   # Technology:
+      Flutter v3.7.3
+      Dart v2.17.5
+      API: https://platform.openai.com/docs/api-reference/images/create
