@@ -15,4 +15,12 @@
    # Technology:
       Flutter v3.7.3
       Dart v2.17.5
-      API: https://platform.openai.com/docs/api-reference/images/create
+      DALL-E OpenAI: https://platform.openai.com/docs/api-reference/images/create
+
+   # How to run Project:
+
+      Clone this project and open with Visual Studio Code.
+      
+        String apikey = "Enter Here API_KEY";
+
+      To install dependences, run: flutter pub get
